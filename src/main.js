@@ -26,38 +26,38 @@ const app ={
       image: "./asset/img/img1.jpg"
     },
     {
-      name: "Tu Phir Se Aana",
-      singer: "Raftaar x Salim Merchant x Karma",
+      name: "Đông Miên",
+      singer: " A Nguyệt Nguyệt, Lưu Triệu Vũ",
       path: "./asset/music/sing2/sinh2.mp3",
       image:
       "./asset/img/img1.jpg"
     },
     {
-      name: "Naachne Ka Shaunq",
-      singer: "Raftaar x Brobha V",
+      name: "Ngày Em Đẹp Nhất",
+      singer: "TAMA",
       path:
         "./asset/music/sing3/sing3.mp3",
       image: "./asset/img/img1.jpg"
     },
     
     {
-      name: "Damn",
-      singer: "Raftaar x kr$na",
+      name: "Kẻ Theo Đuổi Ánh Sáng",
+      singer: "Huy Vạc x Tiến Nguyễn x Freak D",
       path:
         "./asset/music/sing5/sing5.mp3",
       image:
         "./asset/img/img1.jpg"
     },
     {
-      name: "Feeling You",
-      singer: "Raftaar x Harjas",
+      name:"Nhu Anh Da Thay Em",
+      singer: "PhucXp",
       path: "./asset/music/sing6/sing6.mp3",
       image:
         "./asset/img/img1.jpg"
     },
     {
-      name: "Feeling You",
-      singer: "Raftaar x Harjas",
+      name: "Chờ Đợi Có Đáng Sợ",
+      singer: "ANDIEZ",
       path: "./asset/music/sing7/sing7.mp3",
       image:
         "./asset/img/img1.jpg"
